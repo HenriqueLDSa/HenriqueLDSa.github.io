@@ -22,11 +22,15 @@ body {
     font-size: 60px;
 }
 
+#us {
+    font-size: 30px;
+}
+
 #heart {
     position: relative;
     width: 100px;
     height: 90px;
-    margin-top: 15px;
+    margin: 15px 0px;
     animation: beat 1.5s infinite;
 }
 
